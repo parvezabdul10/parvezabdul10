@@ -25,10 +25,10 @@ I love designing models and systems that turn market data into clear, testable d
 - 💬 Ask me about: portfolio risk, VaR/stress testing, backtesting, data pipelines, or model evaluation
 
 ### 🧰 Tech I use
-- **Languages:** Python, SQL  
+- **Languages:** Python, Java, Javascript, HTML, CSS SQL  
 - **Quant/ML:** pandas, NumPy, SciPy, statsmodels, scikit-learn  
 - **Apps/Viz:** Streamlit, Plotly/Matplotlib  
-- **Engineering:** Git/GitHub, pytest, virtualenv, CLI tooling
+- **Engineering:** Git/GitHub, pytest
 
 ### 📌 Projects I’m proud of
 - **Quant Risk Engine** — risk metrics + stress testing + reporting
