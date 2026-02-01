@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋
 
 <!--
 **parvezabdul10/parvezabdul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Parvez, an aspiring Quantitative/ML & AI engineer based in the United States.
+I love designing models that help the market.
